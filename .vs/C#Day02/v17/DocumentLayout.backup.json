@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\C#Day02\\Csharp_ITI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1D0D59-F48E-40BA-9CBE-57213E920124}|Day02\\Day02.csproj|c:\\users\\user\\source\\repos\\c#day02\\csharp_iti\\day02\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1D0D59-F48E-40BA-9CBE-57213E920124}|Day02\\Day02.csproj|solutionrelative:day02\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE14215-96ED-43B6-9D40-D5D6B957BCFF}|C#Day02\\C#Day02.csproj|c:\\users\\user\\source\\repos\\c#day02\\csharp_iti\\c#day02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE14215-96ED-43B6-9D40-D5D6B957BCFF}|C#Day02\\C#Day02.csproj|solutionrelative:c#day02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1D0D59-F48E-40BA-9CBE-57213E920124}|Day02\\Day02.csproj|c:\\users\\user\\source\\repos\\c#day02\\csharp_iti\\day02\\hiringdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1D0D59-F48E-40BA-9CBE-57213E920124}|Day02\\Day02.csproj|solutionrelative:day02\\hiringdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1D0D59-F48E-40BA-9CBE-57213E920124}|Day02\\Day02.csproj|c:\\users\\user\\source\\repos\\c#day02\\csharp_iti\\day02\\securitylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1D0D59-F48E-40BA-9CBE-57213E920124}|Day02\\Day02.csproj|solutionrelative:day02\\securitylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1D0D59-F48E-40BA-9CBE-57213E920124}|Day02\\Day02.csproj|c:\\users\\user\\source\\repos\\c#day02\\csharp_iti\\day02\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1D0D59-F48E-40BA-9CBE-57213E920124}|Day02\\Day02.csproj|solutionrelative:day02\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecurityLevel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Day02\\Csharp_ITI\\Day02\\SecurityLevel.cs",
+              "RelativeDocumentMoniker": "Day02\\SecurityLevel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#Day02\\Csharp_ITI\\Day02\\SecurityLevel.cs",
+              "RelativeToolTip": "Day02\\SecurityLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:20:30.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HiringDate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Day02\\Csharp_ITI\\Day02\\HiringDate.cs",
+              "RelativeDocumentMoniker": "Day02\\HiringDate.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#Day02\\Csharp_ITI\\Day02\\HiringDate.cs",
+              "RelativeToolTip": "Day02\\HiringDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:15:46.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Day02\\Csharp_ITI\\Day02\\Gender.cs",
+              "RelativeDocumentMoniker": "Day02\\Gender.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#Day02\\Csharp_ITI\\Day02\\Gender.cs",
+              "RelativeToolTip": "Day02\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:14:55.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Day02\\Csharp_ITI\\Day02\\Employee.cs",
+              "RelativeDocumentMoniker": "Day02\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#Day02\\Csharp_ITI\\Day02\\Employee.cs",
+              "RelativeToolTip": "Day02\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:11:25.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Day02\\Csharp_ITI\\C#Day02\\Program.cs",
+              "RelativeDocumentMoniker": "C#Day02\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#Day02\\Csharp_ITI\\C#Day02\\Program.cs",
+              "RelativeToolTip": "C#Day02\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAuwEAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:02:18.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
