@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\ITI\\C#\\Day03\\Day3\\D03Sol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{500F58A3-A1D8-4966-A0DA-9047B3389EA5}|D03\\D03.csproj|c:\\users\\user\\desktop\\iti\\c#\\day03\\day3\\d03sol\\d03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500F58A3-A1D8-4966-A0DA-9047B3389EA5}|D03\\D03.csproj|solutionrelative:d03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500F58A3-A1D8-4966-A0DA-9047B3389EA5}|D03\\D03.csproj|c:\\users\\user\\desktop\\iti\\c#\\day03\\day3\\d03sol\\d03\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500F58A3-A1D8-4966-A0DA-9047B3389EA5}|D03\\D03.csproj|solutionrelative:d03\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500F58A3-A1D8-4966-A0DA-9047B3389EA5}|D03\\D03.csproj|c:\\users\\user\\desktop\\iti\\c#\\day03\\day3\\d03sol\\d03\\point2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500F58A3-A1D8-4966-A0DA-9047B3389EA5}|D03\\D03.csproj|solutionrelative:d03\\point2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500F58A3-A1D8-4966-A0DA-9047B3389EA5}|D03\\D03.csproj|c:\\users\\user\\desktop\\iti\\c#\\day03\\day3\\d03sol\\d03\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500F58A3-A1D8-4966-A0DA-9047B3389EA5}|D03\\D03.csproj|solutionrelative:d03\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CC590A-E08D-4C9C-B82E-80F55EBAB00D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\desktop\\iti\\c#\\day03\\day3\\d03sol\\consoleapp1\\point3dexternal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CC590A-E08D-4C9C-B82E-80F55EBAB00D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\point3dexternal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500F58A3-A1D8-4966-A0DA-9047B3389EA5}|D03\\D03.csproj|c:\\users\\user\\desktop\\iti\\c#\\day03\\day3\\d03sol\\d03\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500F58A3-A1D8-4966-A0DA-9047B3389EA5}|D03\\D03.csproj|solutionrelative:d03\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Duration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ITI\\C#\\Day03\\Day3\\D03Sol\\D03\\Duration.cs",
+              "RelativeDocumentMoniker": "D03\\Duration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ITI\\C#\\Day03\\Day3\\D03Sol\\D03\\Duration.cs",
+              "RelativeToolTip": "D03\\Duration.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAANIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T04:57:11.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Point3DExternal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ITI\\C#\\Day03\\Day3\\D03Sol\\ConsoleApp1\\Point3DExternal.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Point3DExternal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ITI\\C#\\Day03\\Day3\\D03Sol\\ConsoleApp1\\Point3DExternal.cs",
+              "RelativeToolTip": "ConsoleApp1\\Point3DExternal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:55:44.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Point3D.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ITI\\C#\\Day03\\Day3\\D03Sol\\D03\\Point3D.cs",
+              "RelativeDocumentMoniker": "D03\\Point3D.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ITI\\C#\\Day03\\Day3\\D03Sol\\D03\\Point3D.cs",
+              "RelativeToolTip": "D03\\Point3D.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAswIwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:55:05.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point2D.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ITI\\C#\\Day03\\Day3\\D03Sol\\D03\\Point2D.cs",
+              "RelativeDocumentMoniker": "D03\\Point2D.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ITI\\C#\\Day03\\Day3\\D03Sol\\D03\\Point2D.cs",
+              "RelativeToolTip": "D03\\Point2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:40:54.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Math.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ITI\\C#\\Day03\\Day3\\D03Sol\\D03\\Math.cs",
+              "RelativeDocumentMoniker": "D03\\Math.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ITI\\C#\\Day03\\Day3\\D03Sol\\D03\\Math.cs",
+              "RelativeToolTip": "D03\\Math.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:13:46.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ITI\\C#\\Day03\\Day3\\D03Sol\\D03\\Program.cs",
+              "RelativeDocumentMoniker": "D03\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ITI\\C#\\Day03\\Day3\\D03Sol\\D03\\Program.cs",
+              "RelativeToolTip": "D03\\Program.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAHsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:01:33.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
