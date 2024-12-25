@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\C#_Day04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0B2E52-6182-4EFD-B529-4C83104ABD16}|C#_Day04\\C#_Day04.csproj|c:\\users\\user\\source\\repos\\c#_day04\\c#_day04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0B2E52-6182-4EFD-B529-4C83104ABD16}|C#_Day04\\C#_Day04.csproj|solutionrelative:c#_day04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0B2E52-6182-4EFD-B529-4C83104ABD16}|C#_Day04\\C#_Day04.csproj|c:\\users\\user\\source\\repos\\c#_day04\\c#_day04\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0B2E52-6182-4EFD-B529-4C83104ABD16}|C#_Day04\\C#_Day04.csproj|solutionrelative:c#_day04\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0B2E52-6182-4EFD-B529-4C83104ABD16}|C#_Day04\\C#_Day04.csproj|c:\\users\\user\\source\\repos\\c#_day04\\c#_day04\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0B2E52-6182-4EFD-B529-4C83104ABD16}|C#_Day04\\C#_Day04.csproj|solutionrelative:c#_day04\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0B2E52-6182-4EFD-B529-4C83104ABD16}|C#_Day04\\C#_Day04.csproj|c:\\users\\user\\source\\repos\\c#_day04\\c#_day04\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0B2E52-6182-4EFD-B529-4C83104ABD16}|C#_Day04\\C#_Day04.csproj|solutionrelative:c#_day04\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryEngine.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#_Day04\\C#_Day04\\LibraryEngine.cs",
+              "RelativeDocumentMoniker": "C#_Day04\\LibraryEngine.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#_Day04\\C#_Day04\\LibraryEngine.cs",
+              "RelativeToolTip": "C#_Day04\\LibraryEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:07:25.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#_Day04\\C#_Day04\\BookFunctions.cs",
+              "RelativeDocumentMoniker": "C#_Day04\\BookFunctions.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#_Day04\\C#_Day04\\BookFunctions.cs",
+              "RelativeToolTip": "C#_Day04\\BookFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:05:48.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#_Day04\\C#_Day04\\Book.cs",
+              "RelativeDocumentMoniker": "C#_Day04\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#_Day04\\C#_Day04\\Book.cs",
+              "RelativeToolTip": "C#_Day04\\Book.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:00:37.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#_Day04\\C#_Day04\\Program.cs",
+              "RelativeDocumentMoniker": "C#_Day04\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#_Day04\\C#_Day04\\Program.cs",
+              "RelativeToolTip": "C#_Day04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:56:27.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
